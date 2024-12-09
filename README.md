@@ -9,7 +9,7 @@ This project is a website for real estate agents, enabling them to register prop
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql" />
   </a>
 </p>
 
