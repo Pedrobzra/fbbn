@@ -5,11 +5,11 @@
 This project is a website for real estate agents, enabling them to register properties with photos, descriptions, and relevant details. It serves as a virtual catalog that can be shared with clients, providing easy and organized access to property information
 
 
-## Languages
+## Technologies
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,prisma,vite" />
   </a>
 </p>
 
